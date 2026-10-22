@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\AdelantoMenuAdmin_Valeria\bin\Debug\AdelantoMenuAdmin_Valeria.exe.config
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\AdelantoMenuAdmin_Valeria\bin\Debug\AdelantoMenuAdmin_Valeria.exe
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\AdelantoMenuAdmin_Valeria\bin\Debug\AdelantoMenuAdmin_Valeria.pdb
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\AdelantoMenuAdmin_Valeria\obj\Debug\AdelantoMenuAdmin_Valeria.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\AdelantoMenuAdmin_Valeria\obj\Debug\AdelantoMenuAdmin_Valeria.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\AdelantoMenuAdmin_Valeria\obj\Debug\AdelantoMenuAdmin_Valeria.exe
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\AdelantoMenuAdmin_Valeria\obj\Debug\AdelantoMenuAdmin_Valeria.pdb
