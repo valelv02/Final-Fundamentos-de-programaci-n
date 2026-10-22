@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Desktop\Paloma\PruebaFinal\obj\Debug\PruebaFinal.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Desktop\Paloma\PruebaFinal\obj\Debug\PruebaFinal.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Desktop\Paloma\PruebaFinal\bin\Debug\PruebaFinal.exe.config
+C:\Users\B09S104est\Desktop\Paloma\PruebaFinal\bin\Debug\PruebaFinal.exe
+C:\Users\B09S104est\Desktop\Paloma\PruebaFinal\bin\Debug\PruebaFinal.pdb
+C:\Users\B09S104est\Desktop\Paloma\PruebaFinal\obj\Debug\PruebaFinal.exe
+C:\Users\B09S104est\Desktop\Paloma\PruebaFinal\obj\Debug\PruebaFinal.pdb
